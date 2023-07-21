@@ -54,8 +54,21 @@
   I love [something interesting about yourself or a hobby].
 </p>
 
+<!-- Replace the following placeholder with your own content -->
+
+<!-- GIFs and images to showcase your projects -->
 <p align="center">
-  <!-- Add any additional sections you'd like, such as GitHub stats, top projects, etc. -->
+  <img src="path_to_your_project.gif" alt="Project 1" width="400">
+  <img src="path_to_your_project_2.gif" alt="Project 2" width="400">
 </p>
 
-<!-- Replace the following placeholder with your own content -->
+<!-- Live GitHub Stats Counter using shields.io -->
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="Followers">
+  </a>
+  <a href="https://github.com/yourusername?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-10-brightgreen.svg" alt="Repositories">
+  </a>
+  <!-- Add more dynamic badges here -->
+</p>
