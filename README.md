@@ -11,7 +11,7 @@
 
 <p align="center">
   <!-- Add a brief description of yourself or your project -->
-  Hi there! 👋 I'm [Your Name], a passionate [Your Profession or Interests]. Welcome to my GitHub profile!
+  Hi there! 👋 I'm [Your Name], a passionate MERN stack developer currently pursuing my degree in college. Welcome to my GitHub profile!
 </p>
 
 <h2 align="center">🚀 What I'm Currently Working On</h2>
@@ -26,8 +26,10 @@
 
 <p align="center">
   <!-- Mention the technologies or skills you're currently learning or interested in -->
-  - [Technology 1]
-  - [Technology 2]
+  - React.js
+  - Node.js
+  - Express.js
+  - MongoDB
 </p>
 
 <h2 align="center">📫 How to Reach Me</h2>
@@ -51,16 +53,18 @@
 
 <p align="center">
   <!-- Share a fun or interesting fact about yourself -->
-  I love [something interesting about yourself or a hobby].
+  I love building web applications that solve real-world problems and learning about new technologies in the MERN stack!
 </p>
 
 <!-- Replace the following placeholder with your own content -->
 
-<!-- GIFs and images to showcase your projects -->
-<p align="center">
-  <img src="path_to_your_project.gif" alt="Project 1" width="400">
-  <img src="path_to_your_project_2.gif" alt="Project 2" width="400">
-</p>
+<!-- Animated section for MERN Stack Developer -->
+
+<div align="center">
+  <img src="path_to_your_animated_gif_or_svg.gif" alt="Animated MERN Stack Developer" width="800">
+</div>
+
+<!-- End of animated section -->
 
 <!-- Live GitHub Stats Counter using shields.io -->
 <p align="center">
