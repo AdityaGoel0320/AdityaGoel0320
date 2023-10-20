@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱I'm currently working on Full Stack Projects<br>🔭I'm currently learning more by making projects<br>
+🌱I'm currently working on F ull Stack Projects<br>🔭I'm currently learning more by making projects<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-goel-286245239) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/AdityaGoel0320?t=DWSov778bgHXMkyQxELrow&s=09) 
