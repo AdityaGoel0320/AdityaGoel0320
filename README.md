@@ -2,7 +2,7 @@
 🌱I'm currently working on NextJs advance Projects 😎 <br>🔭 Ex- Web Development Intern at GEMS OF JCI(Mern stack) , Advance Mern Stack Developer , Java Coder , Coding enthusiast 👏<br>
 
 
-Portfolio :- https://aditya-goel-portfolio-website.vercel.app/
+Portfolio :- https://aditya-goel.vercel.app/
 
 
 
