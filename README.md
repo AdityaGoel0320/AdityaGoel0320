@@ -1,31 +1,71 @@
-# 💫 About Me:
-🌱I'm currently working on NextJs advance Projects 😎 <br>🔭 Ex- Web Development Intern at GEMS OF JCI(Mern stack) , Advance Mern Stack Developer , Java Coder , Coding enthusiast 👏<br>
+<div align="center">
 
+<h1>Aditya Goel</h1>
 
-Portfolio :- https://aditya-goel.vercel.app/
+<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=168C83&center=true&vCenter=true&width=560&lines=Software+Engineer;Full-stack+developer;Building+reliable+digital+experiences" alt="Software Engineer | Full-stack developer | Building reliable digital experiences" /></p>
 
+<p><strong>Software Engineer · Full-stack development · Delhi NCR, India</strong></p>
 
+<p><a href="https://aditya-goel-dev.vercel.app">Portfolio</a> · <a href="https://www.linkedin.com/in/aditya-goel-dev">LinkedIn</a> · <a href="mailto:adityagoel.dev@gmail.com">Email</a></p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-goel-286245239) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/AdityaGoel0320?t=DWSov778bgHXMkyQxELrow&s=09) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaGoel0320&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaGoel0320&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGoel0320&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 👋 About
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdityaGoel0320&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+Full-stack software engineer with **1.5+ years of professional experience** building web applications and learning platforms. I work across frontend and backend systems, REST APIs, event-driven services, and AWS infrastructure, with a focus on maintainable code and dependable production experiences.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💼 Experience
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdityaGoel0320&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Software Developer · Compro Technologies Pvt. Ltd.
+**July 2026 – Present**
 
----
-[![](https://visitcount.itsvg.in/api?id=AdityaGoel0320&icon=4&color=3)](https://visitcount.itsvg.in)
+- Build learning platform and eBook Reader features for **Cambridge University Press & Assessment** and **VHL** using React, Vue, Nuxt, TypeScript, Node.js, REST APIs, and microservices.
+- Develop AI-powered automation and support cloud deployments with AWS EC2, S3, and CodePipeline.
+- Contribute to code reviews, SonarQube quality improvements, and production architecture across engineering teams.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Associate Software Developer · Compro Technologies Pvt. Ltd.
+**July 2025 – June 2026**
+
+- Owned authentication, authorization, and customer identity workflows with **SAP Customer Data Cloud (SAP CDC)** for enterprise EdTech applications.
+- Optimized backend APIs, integrated Kafka-based services, and resolved production issues to improve application stability and scalability.
+
+### Software Development & Testing Intern · Compro Technologies Pvt. Ltd.
+**January 2025 – June 2025**
+
+- Developed application features with the MEAN stack, Vue, and Nuxt, using reusable components and enterprise code patterns.
+- Performed manual, edge-case, and regression testing; wrote unit and integration tests with Mocha and Chai.
+
+### Full Stack Web Developer · Digital Shift Pvt. Ltd.
+**June 2024 – September 2024**
+
+- Built responsive MERN applications, reusable UI components, and backend services.
+- Designed REST APIs and optimized database queries for application performance.
+
+## 🧰 Skills
+
+- **Languages:** JavaScript, TypeScript, Java, Python, SQL
+- **Frontend:** React, Next.js, Vue, Nuxt, Angular, Redux Toolkit, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs, JWT, Kafka, microservices
+- **Databases:** MongoDB, PostgreSQL, MySQL, Redis
+- **Cloud & tools:** AWS, Git, GitHub, Postman, Swagger, SonarQube
+- **Testing:** Jest, Mocha, Chai, integration testing, regression testing
+- **Foundations:** Data structures and algorithms, OOP, DBMS, system design
+
+## 🚀 Projects
+
+### Shopp.my
+E-commerce application built with the MERN stack, TypeScript, and Firebase. Includes authentication, a dynamic cart, Firebase Storage, and Stripe payments. The resume reports **30% faster load times** and **25% higher user engagement** after performance and responsive design improvements.
+
+### ChatBuddy
+Full-stack personal interaction platform with an admin panel, Cloudinary media, and Socket.IO. Redux-based authentication improvements reduced authentication time by **30%**.
+
+## 🎓 Education
+
+- **B.Tech. in Information Technology**, Maharaja Agrasen Institute of Technology (MAIT) · 2021–2025 · **83.2%**
+- **Class X & XII**, Maharaja Aggarsain Adarsh Public School (CBSE) · 2018–2021 · **94.4% & 93.8%**
+
+<div align="center">
+
+📍 Delhi NCR, India · <a href="mailto:adityagoel.dev@gmail.com">adityagoel.dev@gmail.com</a>
+
+</div>
