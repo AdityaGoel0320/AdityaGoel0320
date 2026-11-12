@@ -12,7 +12,7 @@ Software Engineer based in Delhi, India. I build full-stack web applications wit
 
 ## Portfolio
 
-🔗 [aditya-goel.vercel.app](https://aditya-goel.vercel.app/)
+🔗 [aditya-goel-dev.vercel.app](https://aditya-goel-dev.vercel.app/)
 
 ## Connect With Me
 
