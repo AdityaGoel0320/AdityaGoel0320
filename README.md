@@ -1,72 +1,57 @@
-<div align="center">
+# Hi, I'm Aditya Goel 👋
 
-<h1>Aditya Goel</h1>
+Software Engineer based in Delhi, India. I build full-stack web applications with the MERN stack and Next.js, and I'm focused on writing clean, scalable code and shipping products that solve real problems.
 
-<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=168C83&center=true&vCenter=true&width=560&lines=Software+Engineer;Full-stack+Developer;Building+Learning+Platforms;Turning+Ideas+Into+Reliable+Products" alt="Software Engineer | Full-stack Developer | Building Learning Platforms | Turning Ideas Into Reliable Products" /></p>
+## About Me
 
-<p><strong>Software Engineer</strong> · Delhi NCR, India</p>
+- 💼 Software Engineer at **Compro Technologies Pvt. Ltd.**, Delhi
+- 🎓 B.Tech in Information Technology, Maharaja Agrasen Institute of Technology (2025)
+- 🌱 Currently working on advanced Next.js projects
+- 🧑‍💻 Previously: Web Development Intern (MERN Stack) at GEMS OF JCI
+- 📚 Strengthening my skills in TypeScript, system design, cloud and AI engineering
 
-<p>
-	<a href="https://aditya-goel-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-	<a href="https://www.linkedin.com/in/aditya-goel-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-	<a href="https://github.com/AdityaGoel0320"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-	<a href="mailto:adityagoel.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+## Portfolio
 
-</div>
+🔗 [aditya-goel.vercel.app](https://aditya-goel.vercel.app/)
 
-## 👋 About
+## Connect With Me
 
-Full-stack engineer with **1.5+ years of experience** building **enterprise learning platforms**, APIs, and cloud-backed applications. Currently developing products for **Cambridge University Press & Assessment** and **VHL** at Compro Technologies.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-goel-286245239)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/AdityaGoel0320)
 
-## 💼 Experience
+## Tech Stack
 
-### Software Developer · Compro Technologies Pvt. Ltd.
-**July 2026 – Present**
+**Languages**
 
-- Build **LMS and eBook Reader features** for Cambridge University Press & Assessment and VHL with **React, Vue, Nuxt, TypeScript, Node.js, REST APIs, and microservices**.
-- Deliver **AI-powered automation** and AWS deployments; contribute to **code reviews, SonarQube quality, and production architecture**.
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Associate Software Developer · Compro Technologies Pvt. Ltd.
-**July 2025 – June 2026**
+**Frontend**
 
-- Built secure identity workflows with **SAP Customer Data Cloud (SAP CDC)**; optimized APIs, integrated **Kafka** services, and resolved production issues.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-### Software Development & Testing Intern · Compro Technologies Pvt. Ltd.
-**January 2025 – June 2025**
+**Backend & Databases**
 
-- Shipped features with **MEAN, Vue, and Nuxt**; strengthened reliability with **Mocha/Chai tests** and regression testing.
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### Full Stack Web Developer · Digital Shift Pvt. Ltd.
-**June 2024 – September 2024**
+**Tools & Deployment**
 
-- Built responsive **MERN** applications and reusable components; designed REST APIs and optimized database queries.
-
-## 🧰 Skills
-
-<p align="center"><img src="https://skillicons.dev/icons?i=js,ts,java,py,react,nextjs,vue,angular,redux,tailwind,nodejs,express,mongodb,postgres,mysql,redis,kafka,aws,firebase,jest,git" alt="JavaScript, TypeScript, Java, Python, React, Next.js, Vue, Angular, Redux, Tailwind CSS, Node.js, Express, MongoDB, PostgreSQL, MySQL, Redis, Kafka, AWS, Firebase, Jest, Git" /></p>
-
-**Also:** Nuxt · REST APIs · JWT · SAP CDC · Mocha · Chai · Swagger · SonarQube · System Design
-
-## 🚀 Projects
-
-### 🛍️ [Shopp.my](https://github.com/AdityaGoel0320/Advance_Ecommerce_App_Reactjs)
-MERN + TypeScript storefront with **Firebase auth/storage, dynamic cart, and Stripe payments**. Reported **30% faster load times** and **25% higher engagement**.
-
-[![Live demo](https://img.shields.io/badge/Live_Demo-Open-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://shopp-my-frontend.vercel.app) [![Source code](https://img.shields.io/badge/Source_Code-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaGoel0320/Advance_Ecommerce_App_Reactjs)
-
-### 💬 [ChatBuddy](https://github.com/AdityaGoel0320/MERN-CHAT-APP-WITH-SOCKET-IO)
-Real-time MERN chat platform with **Socket.IO, Cloudinary, and an admin panel**. Redux authentication improvements reduced sign-in time by **30%**.
-
-[![Live demo](https://img.shields.io/badge/Live_Demo-Open-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://chat-buddy-with-socket-io.vercel.app) [![Source code](https://img.shields.io/badge/Source_Code-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaGoel0320/MERN-CHAT-APP-WITH-SOCKET-IO)
-
-## 🎓 Education
-
-**B.Tech. Information Technology**, MAIT · 2021–2025 · **83.2%**
-**CBSE Class X/XII**, Maharaja Aggarsain Adarsh Public School · **94.4% / 93.8%**
-
-<div align="center">
-
-📍 Delhi NCR, India · <a href="mailto:adityagoel.dev@gmail.com">adityagoel.dev@gmail.com</a>
-
-</div>
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
